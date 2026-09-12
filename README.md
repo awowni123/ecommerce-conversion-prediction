@@ -65,5 +65,6 @@ A **0.30 prediction threshold** gave a better precision-recall balance:
 
 ```text
 data/
+images/
 notebooks/
 README.md
